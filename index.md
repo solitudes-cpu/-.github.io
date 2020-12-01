@@ -10,7 +10,7 @@
       <p><b>地址：浙江省宁波市鄞州区浙江万里学院回龙校区，基础学院</b></p>
     </td>
     <td width="25%">
-      <img src="/李福为.jpg" width="100%">  </img>    
+      <img src="/李福为.jpg" width="100%">      
     </td>
   </tr>
 </table>
